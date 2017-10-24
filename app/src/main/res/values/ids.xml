@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtName" type="id" />
+    <item name="txtPrice" type="id" />
+    <item name="imgFood" type="id" />
+    <item name="gridView" type="id" />
+</resources>
